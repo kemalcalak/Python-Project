@@ -1,0 +1,9 @@
+train: /content/data_f1/images/train
+val: /content/data_f1/images/val
+
+
+# number of classes
+nc: 4
+
+# class names
+names: [ 'Ferrari','Mclaren','Mercedes','Redbull' ]
